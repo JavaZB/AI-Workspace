@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "需求澄清与提示词优化"
+  short_description: "通过分层提问澄清需求，并整理成可执行的专业 Prompt。"
+  default_prompt: "Use $clarify-and-optimize-prompt to help me turn a rough product idea into a clear executable prompt."

@@ -1,0 +1,28 @@
+﻿# Codex runtime / local state
+.codex/sessions/
+.codex/logs/
+.codex/history/
+.codex/cache/
+.codex/tmp/
+.codex/.tmp/
+.codex/.sandbox/
+.codex/.sandbox-secrets/
+.codex/vendor_imports/
+.codex/sqlite/
+.codex/state_*.sqlite*
+
+# Auth / secrets
+.codex/auth*
+.codex/token*
+.codex/credentials*
+
+# Node / Python
+node_modules/
+__pycache__/
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
